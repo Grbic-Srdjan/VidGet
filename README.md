@@ -17,7 +17,7 @@ That is all! I tried to make it as simple as Possible :) ;) .
 
 It is builded using python3, pip and pytube, which is one of pythons libs. 
 I can promise you that there is no malware in this program and if you still do not trust me, you can find the code behind it in this repo, so that you can check it out, under the belt, how does it really work. 
-As you can see, it really is very simple program and I have created it in 1 hour. 
+As you can see, it really is very simple program and I have created the full idea, algorithm and the program itself under 1 hour. 
 
 # Credits
 
